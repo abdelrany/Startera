@@ -35,7 +35,7 @@ const showMoreDetails = (projectName) => {
     `   \`cd ${projectName}\` \n`,
     '   IOS     :  `pnpm ios` \n',
     '   Android :  `pnpm android` \n\n',
-    '📚 Starter Documentation: https://starter.obytes.com'
+    '📚 Starter Documentation: https://starter.startera.com'
   );
 };
 
