@@ -52,10 +52,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     },
     package: Env.PACKAGE,
   },
-  web: {
-    favicon: './assets/favicon.png',
-    bundler: 'metro',
-  },
+
   plugins: [
     [
       'expo-splash-screen',
